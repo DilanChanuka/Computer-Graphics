@@ -17,6 +17,7 @@ namespace KRW
         {
             InitializeComponent();
         }
+
         Point[] points = new Point[100];
         int count = 0;
 
